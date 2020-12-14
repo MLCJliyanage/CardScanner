@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.microblink:blinkcard:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5b30e2bf6a62c033240df456a11c98f/jetified-blinkcard-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5b30e2bf6a62c033240df456a11c98f/jetified-blinkcard-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5b30e2bf6a62c033240df456a11c98f/jetified-blinkcard-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.microblink/blinkcard/2.0.0/30efaac53e79aa79b5f4116ce9ad1aa4c8b0d00/blinkcard-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
